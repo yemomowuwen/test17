@@ -7,3 +7,5 @@ num = 3
 num = 23
 num = 4
 
+name =zhangsan
+
