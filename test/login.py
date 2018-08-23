@@ -11,3 +11,5 @@ name =zhangsan
 
 num = 7
 
+num1 = 你是大傻逼
+
