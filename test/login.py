@@ -9,3 +9,5 @@ num = 4
 
 name =zhangsan
 
+num = 7
+
